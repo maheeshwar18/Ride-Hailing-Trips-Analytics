@@ -71,11 +71,13 @@ The project follows the Medallion Architecture.
 ## 📊 Dashboard
 
 The project includes a four-page interactive dashboard covering:
+1. Executive Overview - Provides an overall view of ride-hailing business performance through key performance indicators and summary visualizations.
 
-1. **Executive Overview** – Key performance indicators and overall business performance.
-2. **Trip Analysis** – Trip patterns, booking trends, and ride distribution.
-3. **Revenue Analysis** – Revenue performance and financial trends.
-4. **City Analysis** – City-wise performance and geographical comparisons.
+2. Vehicle and Payment Analysis - Explores vehicle usage patterns and payment preferences to understand customer choices and operational trends.
+
+3. City and Regional Analysis - Analyzes city-wise and regional performance to identify differences in trip activity and business distribution.
+
+4. Data Quality and Validation - Highlights data quality checks and validation results to demonstrate the reliability of the processed dataset.
 
 ## Dashboard Screenshots
 
