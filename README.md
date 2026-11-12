@@ -113,7 +113,6 @@ The project implements a structured data pipeline using Databricks to process da
 ```text
 Ride-Hailing-Trip-Analytics/
 │
-├── Notebooks/
 ├── SQL/
 ├── Dashboard_Screenshots/
 ├── Pipeline_Screenshots/
