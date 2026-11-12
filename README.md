@@ -77,19 +77,19 @@ The project includes a four-page interactive dashboard covering:
 3. **Revenue Analysis** – Revenue performance and financial trends.
 4. **City Analysis** – City-wise performance and geographical comparisons.
 
-### Dashboard Screenshots
+## Dashboard Screenshots
 
-Add your dashboard screenshots below:
+### 1. Executive Overview
+![Executive Overview](Dashboard_screenshots/Executive%20Overview.jpg)
 
-```markdown
-![Executive Overview](Dashboard_Screenshots/Executive_Overview.png)
+### 2. Vehicle and Payment Analysis
+![Vehicle and Payment Analysis](Dashboard_screenshots/Vehicle%20and%20payment%20analysis.jpg)
 
-![Trip Analysis](Dashboard_Screenshots/Trip_Analysis.png)
+### 3. City and Regional Analysis
+![City and Regional Analysis](Dashboard_screenshots/City%20and%20Regional%20analysis.jpg)
 
-![Revenue Analysis](Dashboard_Screenshots/Revenue_Analysis.png)
-
-![City Analysis](Dashboard_Screenshots/City_Analysis.png)
-```
+### 4. Data Quality and Validation
+![Data Quality and Validation](Dashboard_screenshots/Data%20Quality%20and%20Validation.jpg)
 
 ## 🤖 Databricks Genie
 
