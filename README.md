@@ -96,7 +96,15 @@ The project includes a four-page interactive dashboard covering:
 The project implements a structured data pipeline using Databricks to process data across Bronze, Silver, and Gold layers.
 
 ### Pipeline Architecture
-![Databricks Pipeline](Dashboard_screenshots/Pipeline.png)
+
+### 1. Bronze Pipeline
+![Bronze Pipeline](Pipeline_Screenshots/Bronze_Pipeline.png)
+
+### 2. Silver Pipeline
+![Silver Pipeline](Pipeline_Screenshots/Silver_Pipeline.png)
+
+### 3. Gold Pipeline
+![Gold Pipeline](Pipeline_Screenshots/Gold_Pipeline.png)
 
 ## 💡 Key Learnings
 
