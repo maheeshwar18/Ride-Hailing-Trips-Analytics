@@ -91,6 +91,9 @@ The project includes a four-page interactive dashboard covering:
 ### 4. Data Quality and Validation
 ![Data Quality and Validation](Dashboard_screenshots/Data%20Quality%20and%20Validation.jpg)
 
+### 5. Pipeline Architecture
+![Databricks Pipeline](Dashboard_screenshots/Pipeline.png)
+
 ## 🤖 Databricks Genie
 
 Databricks Genie enables users to interact with analytical datasets using natural language questions and obtain data-driven answers.
