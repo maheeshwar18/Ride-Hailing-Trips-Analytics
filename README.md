@@ -91,28 +91,12 @@ The project includes a four-page interactive dashboard covering:
 ### 4. Data Quality and Validation
 ![Data Quality and Validation](Dashboard_screenshots/Data%20Quality%20and%20Validation.jpg)
 
-### 5. Pipeline Architecture
-![Databricks Pipeline](Dashboard_screenshots/Pipeline.png)
-
-## 🤖 Databricks Genie
-
-Databricks Genie enables users to interact with analytical datasets using natural language questions and obtain data-driven answers.
-
-Add Genie screenshots here:
-
-```markdown
-![Genie Analysis](Genie_Screenshots/Genie_Analysis.png)
-```
-
 ## 🔄 Data Pipeline
 
 The project implements a structured data pipeline using Databricks to process data across Bronze, Silver, and Gold layers.
 
-Add pipeline screenshots here:
-
-```markdown
-![Data Pipeline](Pipeline_Screenshots/Pipeline_Graph.png)
-```
+### Pipeline Architecture
+![Databricks Pipeline](Dashboard_screenshots/Pipeline.png)
 
 ## 💡 Key Learnings
 
@@ -133,8 +117,6 @@ Ride-Hailing-Trip-Analytics/
 ├── SQL/
 ├── Dashboard_Screenshots/
 ├── Pipeline_Screenshots/
-├── Genie_Screenshots/
-│
 └── README.md
 ```
 
